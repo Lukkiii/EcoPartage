@@ -14,3 +14,4 @@ C:\Users\82466\Desktop\WEB Serveur\projet\EcoPartage\EcoPartageCodeFirst\EcoPart
 C:\Users\82466\Desktop\WEB Serveur\projet\EcoPartage\EcoPartageCodeFirst\EcoPartageCodeFirst\obj\Debug\EcoPartageCodeFirst.csproj.GenerateResource.cache
 C:\Users\82466\Desktop\WEB Serveur\projet\EcoPartage\EcoPartageCodeFirst\EcoPartageCodeFirst\obj\Debug\EcoPartageCodeFirst.Migrations.AddUrl.resources
 C:\Users\82466\Desktop\WEB Serveur\projet\EcoPartage\EcoPartageCodeFirst\EcoPartageCodeFirst\obj\Debug\EcoPartageCodeFirst.Migrations.AddUser.resources
+C:\Users\82466\Desktop\WEB Serveur\projet\EcoPartage\EcoPartageCodeFirst\EcoPartageCodeFirst\obj\Debug\EcoPartageCodeFirst.Migrations.UpdateDatabaseSchema.resources

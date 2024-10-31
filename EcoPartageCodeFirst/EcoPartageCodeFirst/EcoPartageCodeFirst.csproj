@@ -65,6 +65,10 @@
     <Compile Include="Migrations\202410291708575_AddUser.Designer.cs">
       <DependentUpon>202410291708575_AddUser.cs</DependentUpon>
     </Compile>
+    <Compile Include="Migrations\202410311457213_UpdateDatabaseSchema.cs" />
+    <Compile Include="Migrations\202410311457213_UpdateDatabaseSchema.Designer.cs">
+      <DependentUpon>202410311457213_UpdateDatabaseSchema.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -82,6 +86,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Migrations\202410291708575_AddUser.resx">
       <DependentUpon>202410291708575_AddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Migrations\202410311457213_UpdateDatabaseSchema.resx">
+      <DependentUpon>202410311457213_UpdateDatabaseSchema.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
